@@ -1,1 +1,1 @@
-Hello, my name is Leif Bays, and I am a beginner at open source software.
+Hello, my name is Maxine Bays, and I am a beginner at open source software.
